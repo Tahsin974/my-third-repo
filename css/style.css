@@ -1,0 +1,58 @@
+h1{
+    color: deeppink;
+    text-align: center;
+}
+.blog-title{
+    text-align: center;
+   
+}
+
+.first{
+    color: greenyellow;
+    background-color: darkgray;
+    border: 3px solid darkmagenta;
+    border-radius: 10px;
+    margin: 20px 2px;
+    padding: 30px 20px;
+    
+}
+.second{
+    color: blanchedalmond;
+    background-color: darkred;
+    border: 3px solid darkmagenta;
+    border-radius: 10px;
+    margin: 20px 2px;
+    padding: 30px 20px;
+
+}
+.third{
+    color: aqua;
+    background-color:green;
+    border: 3px solid darkmagenta;
+    border-radius: 10px;
+    margin: 20px 2px;
+    padding: 30px 20px;
+ 
+
+}
+small{
+    color: rgb(11, 202, 11);
+    display: block;
+}
+.change{
+    color: brown;
+    font-style: italic;
+}
+.first p{
+    text-align: justify;
+}
+.second p{
+    text-align: justify;
+}
+.third p{
+    text-align: justify;
+}
+p{
+    display: inline;
+}
+
